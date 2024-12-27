@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html{
+    scroll-behavior: smooth;
+}
+
+svg.icon-center{
+    width: 100%;
+    text-align: center;
+}
+
+span svg{
+    width: 100%;
+    text-align: center;
+}
